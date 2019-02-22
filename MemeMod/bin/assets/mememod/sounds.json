@@ -1,0 +1,91 @@
+{
+    "memes.snoop_dogg":
+    {
+        "category": "memes",
+        "subtitle": "memes.snoop_dogg",
+        "sounds": [{
+                        "name": "mememod:memes/snoop_dogg", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.sponegebob":
+    {
+        "category": "memes",
+        "subtitle": "memes.spongebob",
+        "sounds": [{
+                        "name": "mememod:memes/spongebob", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.pepe":
+    {
+        "category": "memes",
+        "subtitle": "memes.pepe",
+        "sounds": [{
+                        "name": "mememod:memes/pepe", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.jesus_is_the_bread":
+    {
+        "category": "memes",
+        "subtitle": "memes.jesus_is_the_bread",
+        "sounds": [{
+                        "name": "mememod:memes/jesus_is_the_bread", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.oof":
+    {
+        "category": "memes",
+        "subtitle": "memes.oof",
+        "sounds": [{
+                        "name": "mememod:memes/oof", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.ainsley_harriott":
+    {
+        "category": "memes",
+        "subtitle": "memes.ainsley_harriott",
+        "sounds": [{
+                        "name": "mememod:memes/ainsley_harriott", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.ali_a":
+    {
+        "category": "memes",
+        "subtitle": "memes.ali_a",
+        "sounds": [{
+                        "name": "mememod:memes/ali_a", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.lord_farquaad":
+    {
+        "category": "memes",
+        "subtitle": "memes.lord_farquaad",
+        "sounds": [{
+                        "name": "mememod:memes/lord_farquaad", 
+                        "stream": true
+                  }]
+    },
+    
+    "memes.gabe_the_dog":
+    {
+        "category": "memes",
+        "subtitle": "memes.gabe_the_dog",
+        "sounds": [{
+                        "name": "mememod:memes/gabe_the_dog", 
+                        "stream": true
+                  }]
+    }
+}

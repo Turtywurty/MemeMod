@@ -1,0 +1,30 @@
+//Tabs
+itemGroup.mememodtab=Meme Mod Tab
+
+//Items
+item.random_meme.name=The Random Meme
+item.meme_ingot.name=Meme Ingot
+item.doge_ingot.name=Doge Ingot
+item.ea_ingot.name=EA Ingot
+item.shrek_ingot.name=Shrek Ingot
+item.dat_boi_ingot.name=Dat Boi Ingot
+item.pepe_ingot.name=Pepe Ingot
+item.oof_ingot.name=OOF Ingot
+item.thanos_ingot.name=Thanos Ingot
+item.supreme_brick.name=Supreme Brick
+
+//Blocks
+tile.supreme_bricks.name=Supreme Brick Block
+
+//Tools
+item.meme_sword.name=Meme Sword
+item.meme_pickaxe.name=Meme Pickaxe
+item.meme_spade.name=Meme Shovel
+item.meme_axe.name=Meme Axe
+item.meme_hoe.name=Meme Hoe
+
+/Armor
+item.meme_helmet.name=Meme Helmet
+item.meme_chestplate.name=Meme Chestplate
+item.meme_leggings.name=Meme Leggings
+item.meme_boots.name=Meme Boots
